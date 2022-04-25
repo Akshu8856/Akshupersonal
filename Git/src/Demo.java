@@ -12,6 +12,10 @@ public class Demo {
 	{
 		System.out.printrln("This is M2");
 	}
+	public void m3()
+	{
+		System.out.printrln("This is M3");
+	}
 
 	public static void main(String[] args) 
 	{
